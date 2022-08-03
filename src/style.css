@@ -1,5 +1,5 @@
 body {
-  background: rgb(218, 181, 114);
+  background-color: rgb(218, 181, 114);
 }
 
 h1 {
@@ -9,5 +9,13 @@ h1 {
 }
 
 p {
+  text-align: center;
+}
+
+a {
+  text-align: center;
+}
+
+.image {
   text-align: center;
 }
