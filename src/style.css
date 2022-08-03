@@ -1,5 +1,7 @@
 body {
   background-color: rgb(218, 181, 114);
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
 
 h1 {
@@ -8,12 +10,10 @@ h1 {
   font-weight: 500;
 }
 
-p {
-  text-align: center;
-}
-
+p,
 a {
   text-align: center;
+  display: block;
 }
 
 .image {
