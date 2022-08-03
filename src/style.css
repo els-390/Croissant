@@ -16,6 +16,9 @@ a {
   display: block;
 }
 
-.image {
-  text-align: center;
+.croissant-image {
+  max-width: 20%;
+  border-radius: 30px;
+  display: block;
+  margin: 30px auto;
 }
