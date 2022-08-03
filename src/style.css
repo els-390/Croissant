@@ -2,12 +2,14 @@ body {
   background-color: rgb(218, 181, 114);
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: navy;
 }
 
 h1 {
   text-align: center;
   font-size: 24;
   font-weight: 500;
+  color: navy;
 }
 
 p,
@@ -16,6 +18,9 @@ a {
   display: block;
 }
 
+a {
+  color: red;
+}
 .croissant-image {
   max-width: 20%;
   border-radius: 30px;
